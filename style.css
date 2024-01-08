@@ -24,7 +24,11 @@ nav {
 
 #hi {
   color: #def2f1;
+<<<<<<< HEAD
   font-size: 20px;
+=======
+  font-size: 25px;
+>>>>>>> a10e766cf7baef310f6d775ffd1c17fbe2e5e552
   padding-top: 225px;
   font-family: 'Courier New', monospace;
 }
@@ -33,7 +37,7 @@ nav {
   color: #def2f1;
   font-family: Georgia, serif;
   font: bold;
-  font-size: 80px;
+  font-size: 105px;
 }
 
 #dign {
@@ -95,6 +99,7 @@ nav {
 #spl {
   margin-left: 30px;
 }
+<<<<<<< HEAD
 
 main {
   flex: 1;
@@ -118,3 +123,5 @@ main {
 .wide{
   display: flex;
 }
+=======
+>>>>>>> a10e766cf7baef310f6d775ffd1c17fbe2e5e552
