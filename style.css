@@ -117,11 +117,9 @@ main {
   max-width: 100%;
   height: auto;
   max-height: 400px; 
-  border-radius: 8px; /* Add border-radius for rounded corners */
-}
+  border-radius: 8px;
 
 .wide{
   display: flex;
 }
-=======
->>>>>>> a10e766cf7baef310f6d775ffd1c17fbe2e5e552
+
